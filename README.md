@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maryum Asif Khan</h1>
 <h3 align="center">Passionate Frontend Web Developer from Pakistan.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maryum814&label=Profile%20views&color=0e75b6&style=flat" alt="maryum814" /> </p>
+
 - 🌱 I’m currently learning **Web development and cyber security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
